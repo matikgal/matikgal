@@ -79,6 +79,6 @@ Stawiam na nowoczesne technologie. Oto narzędzia, z których korzystam na co dz
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatikGal&show_icons=true&theme=transparent&hide_border=true&locale=pl" alt="Statystyki" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatikGal&layout=compact&theme=transparent&hide_border=true&locale=pl" alt="Języki" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matikgal&show_icons=true&theme=transparent&hide_border=true&locale=pl" alt="Statystyki" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matikgal&layout=compact&theme=transparent&hide_border=true&locale=pl" alt="Języki" height="150" />
 </div>
