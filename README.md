@@ -1,84 +1,91 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Mateusz%20Gałuszka&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Junior%20Frontend%20Developer&descAlignY=60&descSize=20)
+
 <div align="center">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="auto"/>
-
-  # Cześć, jestem Mateusz! 👋
-
-  ### 🚀 Junior Frontend Developer
-  
-  <p>
-    Szukam pierwszej pracy w IT! Tworzę nowoczesne, responsywne aplikacje webowe,<br>
-    skupiając się na wydajności i dobrym User Experience.
-  </p>
+  <a href="https://www.linkedin.com/in/mateusz-ga%C5%82uszka-981900231/">
+    <img src="https://img.shields.io/badge/STATUS-OTWARTY%20NA%20OFERTY%20PRACY-success?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="Szukam Pracy" height="30" />
+  </a>
 
   <p>
-    <a href="https://www.linkedin.com/in/mateusz-ga%C5%82uszka-981900231/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
     <a href="https://matikgal.github.io/portfolio">
-      <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-Website-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="Portfolio Website" />
     </a>
+     | 
+    <a href="https://www.linkedin.com/in/mateusz-ga%C5%82uszka-981900231/">
+      <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+     | 
     <a href="mailto:twoj.email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-Kontakt-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
-  
-  <br/>
-  <img src="https://img.shields.io/badge/STATUS-SZUKAM%20PRACY-success?style=flat-square&logo=radar" alt="Szukam Pracy" />
 
 </div>
 
 ---
 
-### ⚡ O mnie
+### 👨‍💻 O mnie
 
-Jestem pasjonatem technologii webowych, który każdą wolną chwilę poświęca na naukę nowych rozwiązań. Uwielbiam moment, w którym kod zamienia się w działającą aplikację. Prywatnie fan dobrej kawy i rozwiązywania problemów logicznych. Moim celem jest zostanie ekspertem w ekosystemie React.
+Jestem ambitnym Frontend Developerem na początku swojej ścieżki zawodowej. Moja pasja to przekładanie designu na interaktywny, czysty i wydajny kod.
+
+Specjalizuję się w ekosystemie **React i TypeScript**. Stawiam na nowoczesne podejście do stylowania (Tailwind CSS) oraz dbam o dobre praktyki (DRY, komponentyzacja). Szukam zespołu, w którym będę mógł rozwijać swoje umiejętności pod okiem doświadczonych mentorów i wnosić realną wartość do projektów.
 
 ---
 
-### 🛠️ Mój Tech Stack
+### 🛠️ Tech Stack
 
-Stawiam na nowoczesne technologie. Oto narzędzia, z których korzystam na co dzień:
+Zestaw narzędzi, z których korzystam do budowania aplikacji:
 
-#### Frontend Core & Frameworks
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
-</div>
+**Frontend Core**
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
 
-#### Styling & Animation
-<div align="left">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
-</div>
+**Styling & UI**
+<br/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3_&_Sass-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
-#### Backend & BaaS (Backend as a Service)
-<div align="left">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-</div>
+**Backend Services & Tools**
+<br/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Git_&_GitHub-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 
-#### Tools, DevOps & Design
-<div align="left">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
-</div>
+---
+
+### 📂 Wybrane Projekty
+
+Poniżej kilka projektów, z których jestem szczególnie dumny (więcej w moim portfolio):
+
+| Projekt | Opis | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **[Nazwa Projektu 1]** | Krótki, jednozdaniowy opis co ten projekt robi i jaki problem rozwiązuje. | `React` `TypeScript` `Tailwind` | [Live Demo](LINK) |
+| **[Nazwa Projektu 2]** | Krótki, jednozdaniowy opis co ten projekt robi i jaki problem rozwiązuje. | `Next.js` `Supabase` `Framer Motion` | [Live Demo](LINK) |
+| **[Nazwa Projektu 3]** | Krótki, jednozdaniowy opis co ten projekt robi i jaki problem rozwiązuje. | `React` `Redux` `Firebase` | [Live Demo](LINK) |
+
+---
+
+### 🌱 Obecnie uczę się / Rozwijam
+
+Branża IT wymaga ciągłego rozwoju. Aktualnie zgłębiam:
+
+* Zaawansowane wzorce w **Next.js (App Router)**.
+* Pisanie testów jednostkowych i integracyjnych (**Jest, React Testing Library**).
+* Podstawy backendu w **Node.js / Express**, aby lepiej rozumieć pełen cykl aplikacji.
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matikgal&show_icons=true&theme=transparent&hide_border=true&locale=pl" alt="Statystyki" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matikgal&layout=compact&theme=transparent&hide_border=true&locale=pl" alt="Języki" height="150" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matikgal&show_icons=true&theme=transparent&hide_border=true&locale=pl&count_private=true" alt="Statystyki matikgal" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matikgal&layout=compact&theme=transparent&hide_border=true&locale=pl" alt="Najczęściej używane języki" height="160" />
+</p>
