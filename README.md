@@ -46,11 +46,6 @@
 
   <br />
   <br />
-  <br />
 
-  <p>
-    <i>Thank you for visiting my profile! 👋<br/>
-    Designed & Built by <b>Mateusz Gałuszka</b></i>
-  </p>
 
 </div>
