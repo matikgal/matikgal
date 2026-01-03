@@ -14,7 +14,7 @@ Junior Frontend Developer z Polski 🇵🇱. Piszę w React, TypeScript i Tailwi
   </a>
 </p>
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -38,12 +38,18 @@ Junior Frontend Developer z Polski 🇵🇱. Piszę w React, TypeScript i Tailwi
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
+### 📂 Wybrane Projekty
+
+| Projekt | Technologie | Opis | Link |
+| :--- | :--- | :--- | :--- |
+| **Portfolio** | `React` `Github Pages` | Moja wizytówka z listą projektów. | [Live](https://matikgal.github.io/portfolio) |
+| **Project Name** | `Next.js` `Supabase` | Opis projektu (np. Dashboard do zadań). | [Code](#) |
+| **Project Name** | `React` `Tailwind` | Opis projektu (np. Aplikacja pogodowa). | [Code](#) |
+| **Project Name** | `TypeScript` `Vite` | Opis projektu (np. Gra przeglądarkowa). | [Code](#) |
+
+<br />
 <br />
 
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=graywhite" alt="Quote" />
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=matikgal&label=Odwiedziny%20profilu&color=blue&style=flat-square" alt="Licznik odwiedzin" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Mateusz%20Ga%C5%82uszka-black?style=for-the-badge" alt="Footer">
 </p>
