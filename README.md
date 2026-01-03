@@ -5,10 +5,16 @@
   </a>
 
   <br/>
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Check_It_Out-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://matikgal.github.io/portfolio)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-ga%C5%82uszka-981900231/)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:twoj.email@gmail.com)
+
+  <a href="https://matikgal.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/mateusz-ga%C5%82uszka-981900231/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:twoj.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
 </div>
 
@@ -36,13 +42,13 @@
 ### 📊 Statystyki GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matikgal&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matikgal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matikgal&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matikgal&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Langs" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matikgal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matikgal&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 
 <br />
