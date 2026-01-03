@@ -41,8 +41,8 @@
 | Projekt | Technologie | Opis | Link |
 | :---: | :---: | :---: | :---: |
 | **Portfolio** | `React` `Github Pages` | Moja wizytówka. | [🔴 Live](https://matikgal.github.io/portfolio) |
-| **Project Name** | `Next.js` `Supabase` | Opis projektu. | [💻 Code](#) |
-| **Project Name** | `React` `Tailwind` | Opis projektu. | [💻 Code](#) |
+| **Work Grid System** | `React` `TypeScript` | System zarządzania czasem pracy. | [💻 Code](https://github.com/matikgal/work-grid-system) |
+| **UBB Schedule** | `React` `TypeScript` | Plan zajęć / Harmonogram. | [💻 Code](https://github.com/matikgal/ubb-schedule) |
 
   <br />
   <br />
