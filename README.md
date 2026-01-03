@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Cze%C5%9B%C4%87%2C+jestem+Mateusz!+%F0%9F%91%8B;Junior+Frontend+Developer;I+build+modern+web+apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Cze%C5%9B%C4%87%2C+jestem+Mateusz!+%F0%9F%91%8B;Junior+Frontend+Developer;I+build+modern+web+apps" alt="Typing SVG" />
   </a>
 
   <p>
@@ -42,8 +42,10 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matikgal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matikgal&layout=compact&theme=tokyonight"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=matikgal&show_icons=true&theme=tokyonight&count_private=true" alt="Statystyki"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matikgal&layout=compact&theme=tokyonight" alt="Języki"/>
   </a>
 </div>
 
@@ -65,7 +67,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github.com/matikgal/matikgal/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/matikgal/matikgal/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <br />
