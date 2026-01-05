@@ -38,11 +38,11 @@
 
   <h3>📂 Featured Projects</h3>
 
-| Project | Tech Stack | Description | Link |
-| :---: | :---: | :---: | :---: |
-| **Portfolio** | `React` `Github Pages` | My personal branding and project showcase. | [🔴 Live](https://matikgal.github.io/portfolio) |
-| **Work Grid System** | `React` `TypeScript` | Advanced work-time management system. | [💻 Code](https://github.com/matikgal/work-grid-system) |
-| **UBB Schedule** | `React` `TypeScript` | Dynamic university schedule and timetable app. | [💻 Code](https://github.com/matikgal/ubb-schedule) |
+| Project | Description | Link |
+| :---: | :---: | :---: |
+| **Portfolio** | My personal branding and project showcase. | [🔴 Live](https://matikgal.github.io/portfolio) |
+| **Work Grid System** | Advanced work-time management system. | [💻 Code](https://github.com/matikgal/work-grid-system) |
+| **UBB Schedule** | Dynamic university schedule and timetable app. | [💻 Code](https://github.com/matikgal/ubb-schedule) |
 
   <br />
   <br />
