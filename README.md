@@ -21,7 +21,7 @@
 
   <h3>👨‍💻 About Me</h3>
   <p>
-    Junior Frontend Developer based in Poland 🇵🇱.<br/>
+    Fullstack Developer based in Poland 🇵🇱.<br/>
     Currently leveraging <b>Next.js</b> and <b>TypeScript</b> to build scalable web applications.<br/>
     Focused on clean code, performance optimization, and modern UI/UX patterns.
   </p>
